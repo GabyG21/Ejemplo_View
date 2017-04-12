@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejemplo_Spotify</string>
+    <string name="cuenta">CREAR CUENTA</string>
+    <string name="sesion">iNICIAR SESION</string>
+    <string name="pregunta">¿Ya tienes una cuenta?</string>
+    <string name="hola">Hola</string>
+    <string name="registrate">Registrate para escuchar musica gratis en tu celular,</string>
+    <string name="registrate1">tablet y computadora</string>
+
+</resources>
