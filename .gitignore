@@ -1,9 +1,17 @@
-*.iml
+.DS_Store
+
+# Archivos Gradle de Construccion.
 .gradle
+build/
+
+# Archivos generados automaticamente por el IDE.
 /local.properties
+
+#Archivos IDEA
+*.iml
 /.idea/workspace.xml
 /.idea/libraries
-.DS_Store
-/build
+
+
 /captures
 .externalNativeBuild
